@@ -1,0 +1,5 @@
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7\obj\Debug\net6.0\Sem7.csproj.AssemblyReference.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7\obj\Debug\net6.0\Sem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7\obj\Debug\net6.0\Sem7.AssemblyInfoInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7\obj\Debug\net6.0\Sem7.AssemblyInfo.cs
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7\obj\Debug\net6.0\Sem7.csproj.CoreCompileInputs.cache
