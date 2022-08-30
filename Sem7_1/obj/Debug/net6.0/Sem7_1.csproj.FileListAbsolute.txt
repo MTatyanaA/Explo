@@ -1,0 +1,15 @@
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\Sem7_1.csproj.AssemblyReference.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\Sem7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\Sem7_1.AssemblyInfoInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\Sem7_1.AssemblyInfo.cs
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\Sem7_1.csproj.CoreCompileInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\bin\Debug\net6.0\Sem7_1.exe
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\bin\Debug\net6.0\Sem7_1.deps.json
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\bin\Debug\net6.0\Sem7_1.runtimeconfig.json
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\bin\Debug\net6.0\Sem7_1.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\bin\Debug\net6.0\Sem7_1.pdb
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\Sem7_1.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\refint\Sem7_1.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\Sem7_1.pdb
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\Sem7_1.genruntimeconfig.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\EXPLORER SEM4\Sem7_1\obj\Debug\net6.0\ref\Sem7_1.dll
